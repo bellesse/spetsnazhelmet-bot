@@ -1,5 +1,5 @@
 {
-  "name": "spetsnazhelmet",
+  "name": "gravebot",
   "version": "3.0.0",
   "description": "A bot for the chat program Discord",
   "main": "index.js",
@@ -116,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bellesse/spetsnazhelmet-bot.git"
+    "url": "git+https://github.com/Gravebot/Gravebot.git"
   },
   "keywords": [
     "Discord",
@@ -128,8 +128,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bellesse/spetsnazhelmet-bot"
+    "url": "https://github.com/Gravebot/Gravebot/issues"
   },
-  "homepage": "https://github.com/bellesse/spetsnazhelmet-bot#readme",
+  "homepage": "https://github.com/Gravebot/Gravebot#readme",
   "snyk": true
 }
