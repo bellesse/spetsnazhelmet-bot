@@ -56,12 +56,12 @@
 - `!avatar` *username* - Responds with your avatar, unless a username is specified
 - `!channelinfo` *channelname* - Gives information about this channel, unless a channelname is specified
 - `!feedback` *text* - Give feedback and report bugs about the bot
-- `!ping` - Pong! Check Gravebot's pulse
+- `!ping` - Pong! Check Spetsnaz Helmet's pulse
 - `!serverinfo` *servername* - Gives information about this server, unless a servername is specified
 - `!servers` - Lists how many servers, channels and users the bot is connected to
 - `!uptime` - Shows how long the bot has been online
 - `!userinfo` *username* - Gives information about this user, unless a username is specified
-- `!version` - Get information on the latest version of Gravebot
+- `!version` - Get information on the latest version of Spetsnaz Helmet
 
 #### Games:
 
@@ -108,3 +108,4 @@
 - `!starwars4`
 - `!starwars5`
 
+---
